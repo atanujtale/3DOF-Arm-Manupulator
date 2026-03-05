@@ -5,13 +5,15 @@ This project implements a 3 Degree of Freedom robotic arm manipulator designed f
 
 ## Hardware Used
 - Servo Motors
-- Microcontroller (ESP32 / Arduino)
+- Microcontroller (ESP32)
 - Servo Driver (PCA9685)
 - Power Supply
+- Buck Converter
 - Mechanical Arm Structure
 
 ## Software
-- Arduino IDE
+- VS Code
+- Platform IO
 - C++ Programming
 
 ## Features
